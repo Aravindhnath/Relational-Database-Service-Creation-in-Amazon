@@ -26,7 +26,7 @@ mysql -h <endpoint> -u <username> -p
 
 ## OUTPUT
 
-![RDS1](Op1-cc5.png)
+![RDS1](Op1-cc5.jpg)
 
 ## RESULT
 The experiment successfully demonstrated the creation of a relational database in Amazon RDS, configuration of its settings, and testing of database functionality using SQL commands. 
